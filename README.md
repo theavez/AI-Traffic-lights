@@ -8,4 +8,4 @@ This is an AI traffic lights project which helps in evaluating traffic signals r
 #ultralytics = 8.0.184 python = 3.10.9 are required.
 
 #note
-the file path address that are used may not be work in your condition, if that happens make sure to update the file path accordingly in all the scripts.
+the file path address that are used may not be working in your condition, if that happens make sure to update the file path accordingly in all the scripts.
