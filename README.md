@@ -14,4 +14,13 @@ the file path address that are used may not be working in your condition, if tha
 
 ![signal 1](https://github.com/theavez/AI-Traffic-lights/assets/129176036/538062b5-32ee-4d51-a8a8-baa3d1b01f26)
 
+![signAL 2](https://github.com/theavez/AI-Traffic-lights/assets/129176036/3fa34e5b-a3df-45ed-be7c-33ec0338ae7f)
+
+![sig 1](https://github.com/theavez/AI-Traffic-lights/assets/129176036/a68df179-12f3-4aa3-a942-d8b0984b7670)
+
+![sig 2](https://github.com/theavez/AI-Traffic-lights/assets/129176036/e9e5619b-5d2e-46e8-b1f3-db228ab02201)
+
+![CMD](https://github.com/theavez/AI-Traffic-lights/assets/129176036/0d240156-f54a-401b-92f5-74adb3059eb6)
+
+
 
