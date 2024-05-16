@@ -9,7 +9,8 @@ https://drive.google.com/drive/folders/1ZkXd09U5W6Fku2wNLTgfgZ_b5fjifJjj?usp=sha
 #ultralytics = 8.0.184 python = 3.10.9 are required.
 
 #note
-the default username and password is "admin"
+the default username and password is "admin" 
+C++ should be installed otherwise cert module error might pop up.
 the file path address that are used may not be working in your condition, if that happens make sure to update the file path accordingly in all the scripts.
 
 ![signal 1](https://github.com/theavez/AI-Traffic-lights/assets/129176036/538062b5-32ee-4d51-a8a8-baa3d1b01f26)
