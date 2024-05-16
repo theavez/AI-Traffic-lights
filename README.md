@@ -11,3 +11,7 @@ https://drive.google.com/drive/folders/1ZkXd09U5W6Fku2wNLTgfgZ_b5fjifJjj?usp=sha
 #note
 the default username and password is "admin"
 the file path address that are used may not be working in your condition, if that happens make sure to update the file path accordingly in all the scripts.
+
+![signal 1](https://github.com/theavez/AI-Traffic-lights/assets/129176036/538062b5-32ee-4d51-a8a8-baa3d1b01f26)
+
+
